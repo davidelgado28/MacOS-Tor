@@ -1,0 +1,3 @@
+Este projeto é uma implementação simplificada desenvolvida estritamente para pesquisa acadêmica, engenharia reversa de conceitos de rede e fins educacionais em privacidade.
+
+Redes de produção como o Tor utilizam mecanismos avançados de defesa contra ataques de temporização, diretórios distribuídos e consensos ponderados por largura de banda que não estão totalmente presentes em uma implementação educacional. Não utilize esta ferramenta para proteger dados críticos em cenários de risco real de vigilância. O software deve ser executado e testado exclusivamente em ambientes controlados ou nós de teste autorizados.
