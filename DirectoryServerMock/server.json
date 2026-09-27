@@ -1,1 +1,23 @@
-
+[
+  {
+    "id": "E621E1F8-C36C-495A-93FC-0C247A3E6E5F",
+    "nickname": "GuardNode1",
+    "ipAddress": "127.0.0.1",
+    "port": 9001,
+    "publicKeyBase64": "O3J/iA+K/yO3+l6eQ4l19qJ74sX+D8Q0k1C6yS0H2A0="
+  },
+  {
+    "id": "F341E1F8-C36C-495A-93FC-0C247A3E6E60",
+    "nickname": "MiddleNode1",
+    "ipAddress": "127.0.0.1",
+    "port": 9002,
+    "publicKeyBase64": "p7Q/kC+M/zP3+l6eQ4l19qJ74sX+D8Q0k1C6yS0H2B1="
+  },
+  {
+    "id": "A121E1F8-C36C-495A-93FC-0C247A3E6E61",
+    "nickname": "ExitNode1",
+    "ipAddress": "127.0.0.1",
+    "port": 9003,
+    "publicKeyBase64": "z8R/mD+N/0Q3+l6eQ4l19qJ74sX+D8Q0k1C6yS0H2C2="
+  }
+]
